@@ -1,0 +1,26 @@
+{
+  "name": "scissor",
+  "version": "0.0.0",
+  "description": "smart split of string",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chetandhembre/scissor.git"
+  },
+  "keywords": [
+    "string",
+    "substring"
+  ],
+  "author": "Chetan Dhembre <chetandhembre@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chetandhembre/scissor/issues"
+  },
+  "homepage": "https://github.com/chetandhembre/scissor",
+  "devDependencies": {
+    "tap": "^0.4.8"
+  }
+}
