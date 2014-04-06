@@ -1,6 +1,6 @@
 # scissor   [![Build Status](https://travis-ci.org/chetandhembre/scissor.svg?branch=master)](https://travis-ci.org/chetandhembre/scissor)
 
-[![NPM](https://nodei.co/npm/scissor.png?downloads=true&stars=true)](https://nodei.co/npm/kue/)
+[![NPM](https://nodei.co/npm/scissor.png?downloads=true&stars=true)](https://nodei.co/npm/scissor/)
 
 many time we  want to split large string into small chunk of string with some limit of lenght of every string. But gotcha here is while spliting large string we should not split word because we do then we will destory meaning of word. this module will help you to handle those cases
 
