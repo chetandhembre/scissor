@@ -27,6 +27,9 @@ many time we  want to split large string into small chunk of string with some li
 
 ``npm install scissor``
 
+## Test
+
+``npm test``
 
 # API
 You can call ``split(string, maxlenght)`` it will return array of string 
