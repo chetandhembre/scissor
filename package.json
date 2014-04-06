@@ -1,6 +1,6 @@
 {
   "name": "scissor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "smart split of string",
   "main": "index.js",
   "scripts": {
