@@ -107,7 +107,6 @@ var split = function (str, limit) {
     do {
         ret = splitString(str, limit);
         str = ret.result;
-        console.log(ret);
     } while (!ret.end);
 
     return ret.result;
